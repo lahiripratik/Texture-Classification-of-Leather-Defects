@@ -23,5 +23,10 @@ Picks up the maximum intensity values, hence the word 'Max'.
 
 ![image](https://github.com/lahiripratik/Texture-Classification-of-Leather-Defects/assets/84749230/6c207471-0748-4348-8678-bc38a70e673b)
 
+### Flatten Layer
+This was used to convert the multi-dimensional output from the above layers to one-dimensional value.
+### Dense Layer
+This was used for classification purposes.
+
 
 
